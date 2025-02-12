@@ -1,3 +1,7 @@
 #! /bin/bash
 
-echo "Hello, World!"
+<<<<<<< HEAD
+echo "Welcome, all!"
+=======
+echo "Welcome, all!"
+>>>>>>> new_greeting
